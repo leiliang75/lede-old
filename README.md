@@ -1,21 +1,21 @@
 # LEDE 源码仓库
 
-## 固件与内核版本
+## Firmware and Kernel Version
 
 **X86**
 
-固件版本: 
+Firmware Version: 
 
-内核版本: 
+Kernel Version: 
 
 **FriendlyArm NanoPi R4S**
 
-固件版本: 
+Firmware Version: 
 
-内核版本: 
+Kernel Version: 
 
 **FriendlyArm NanoPi R5S**
 
-固件版本: R23.11.11
+Firmware Version: R23.11.11
 
-内核版本: 5.15.136
+Kernel Version: 5.15.136
