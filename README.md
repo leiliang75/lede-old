@@ -1,5 +1,7 @@
 # LEDE Source Code Repository
 
+## Code update date on 
+Nov 16 2023
 ## Firmware and Kernel Version
 
 **X86**
