@@ -1,4 +1,4 @@
-# LEDE 源码仓库
+# LEDE Source Code Repository
 
 ## Firmware and Kernel Version
 
